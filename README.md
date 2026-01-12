@@ -27,5 +27,5 @@ Ikuti langkah ini untuk menjalankan project di komputer lokal:
 
 1. **Clone Repository**
    ```bash
-   git clone [https://github.com/username-anda/repo-anda.git](https://github.com/username-anda/repo-anda.git)
-   cd repo-anda
+   git clone [https://github.com/azrielputra/uas-blog](https://github.com/azrielputra/uas-blog)
+   cd uas-blog
